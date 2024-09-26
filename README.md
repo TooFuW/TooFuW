@@ -13,13 +13,14 @@ My goal is to become a **Web Developer**, **Game Developer**, or **Software Deve
 - **Databases**: SQL
 - **Tools**: Microsoft Office Suite, Unreal Engine (familiar with the editor)
 
-<!---
+---
 
 ## 🚀 Projects
 
-Coming soon
+### 🛍️ Shopify Websites:
+- [AKOS](https://akos.nc/) – An e-commerce website for local products.
+- [Pacific Sécurité](https://pacificsecurite.nc/) – An e-commerce website for security cameras and surveillance equipment.
 
---->
 ---
 
 ## 📫 Contact Me
