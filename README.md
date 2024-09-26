@@ -9,7 +9,7 @@ My goal is to become a **Web Developer**, **Game Developer**, or **Software Deve
 ## 🔧 Technical Skills
 
 - **Programming Languages**: Python, Java, JavaScript
-- **Web Technologies**: HTML, CSS, JavaScript
+- **Web**: HTML, CSS, JavaScript, Shopify (familiar)
 - **Databases**: SQL
 - **Tools**: Microsoft Office Suite, Unreal Engine (familiar with the editor)
 
@@ -20,6 +20,9 @@ My goal is to become a **Web Developer**, **Game Developer**, or **Software Deve
 ### 🛍️ Shopify Websites:
 - [AKOS](https://akos.nc/) – An e-commerce website for local products.
 - [Pacific Sécurité](https://pacificsecurite.nc/) – An e-commerce website for security cameras and surveillance equipment.
+
+### 💻 Wordpress Websites:
+- [Videosafe](https://videosafe.pacificsecurite.nc/) – A website for a cloud storage solution for videosurveillance.
 
 ---
 
