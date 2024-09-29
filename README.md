@@ -26,6 +26,12 @@ My goal is to become a **Web Developer**, **Game Developer**, or **Software Deve
 
 ---
 
+## 📦 Small projects
+
+- [ChessComHelper](https://github.com/TooFuW/ChromeExtension_ChessComHelper/) - A chrome extension that highlights the threatened pieces on Chess.com.
+
+---
+
 ## 📫 Contact Me
 
 - GitHub: [TooFuW](https://github.com/TooFuW)
