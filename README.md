@@ -2,7 +2,7 @@
 
 Hi, I'm TooFu, a 2nd year Computer Science student.  
 I love reading, playing video games and board games, and coding.  
-My goal is to become a **Web Developer**, **Game Developer**, or **Software Developer**.
+My goal is to become a **Web Developer**, **Game Developer**, or **Software Enginer**.
 
 ---
 
@@ -16,6 +16,9 @@ My goal is to become a **Web Developer**, **Game Developer**, or **Software Deve
 ---
 
 ## 🚀 Projects
+
+### 💾 API app:
+- Batitech – An app using Synchroteam API to create tasks.
 
 ### 🛍️ Shopify Websites:
 - [AKOS](https://akos.nc/) – An e-commerce website for local products.
