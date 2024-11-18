@@ -8,17 +8,17 @@ My goal is to become a **Web Developer**, **Game Developer**, or **Software Engi
 
 ## 🔧 Technical Skills
 
-- **Programming Languages**: Python, Java, JavaScript
-- **Web**: HTML, CSS, JavaScript, Shopify (familiar)
+- **Programming Languages**: Python, Java
+- **Web**: HTML, CSS, JavaScript, Shopify (familiar), Wordpress (basics)
 - **Databases**: SQL
-- **Tools**: Microsoft Office Suite, Unreal Engine (familiar with the editor)
+- **Tools**: Microsoft Office, Unreal Engine (familiar with the editor)
 
 ---
 
 ## 🚀 Projects
 
 ### 💾 API app:
-- Batitech – An app using Synchroteam API to create tasks.
+- For Batitech – An app using Synchroteam API to create tasks.
 
 ### 🛍️ Shopify Websites:
 - [AKOS](https://akos.nc/) – An e-commerce website for local products.
