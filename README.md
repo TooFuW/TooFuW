@@ -33,10 +33,12 @@ My goal is to become a **Web Developer**, **Game Developer**, or **Software Engi
 
 - [ChessComHelper](https://github.com/TooFuW/ChromeExtension_ChessComHelper/) - A chrome extension that highlights the threatened pieces on Chess.com.
 
+- [ShortMoji](https://github.com/TooFuW/ShortMoji) - A small python program to use the Discord emoji system everywhere on your computer.
+
 ---
 
 ## 📫 Contact Me
 
 - GitHub: [TooFuW](https://github.com/TooFuW)
 - Email: [eyrianmuet@proton.me](mailto:eyrianmuet@proton.me)
-<!--- - Portfolio: [Coming Soon](https://example.com) --->
+<!--- - Portfolio: [Coming one day](https://example.com) --->
