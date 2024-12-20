@@ -9,9 +9,11 @@ My goal is to become a **Web Developer**, **Game Developer**, or **Software Engi
 ## 🔧 Technical Skills
 
 - **Programming Languages**: Python, Java
-- **Web**: HTML, CSS, JavaScript, Shopify (familiar), Wordpress (basics)
+- **Web**: HTML, CSS, JavaScript, Shopify (familiar), Wordpress (familiar)
 - **Databases**: SQL
-- **Tools**: Microsoft Office, Unreal Engine (familiar)
+- **Tools**: VSCode, Microsoft Office, Unreal Engine (familiar)
+> [!NOTE]\
+> Currently learning Kotlin
 
 ---
 
@@ -22,14 +24,14 @@ My goal is to become a **Web Developer**, **Game Developer**, or **Software Engi
 
 ### 🛍️ Shopify Websites:
 - [AKOS](https://akos.nc/) – An e-commerce website for local products.
-- [Pacific Sécurité](https://pacificsecurite.nc/) – An e-commerce website for security cameras and surveillance equipment.
+- [Pacific Securite](https://pacificsecurite.nc/) – An e-commerce website for security cameras and surveillance equipment.
 
 ### 💻 Wordpress Websites:
 - [Videosafe](https://videosafe.pacificsecurite.nc/) – A website for a cloud storage solution for videosurveillance.
 
 ---
 
-## 📦 Small projects
+## 📦 Personal projects
 
 - [ChessComHelper](https://github.com/TooFuW/ChromeExtension_ChessComHelper/) - A chrome extension that highlights the threatened pieces on Chess.com.
 
@@ -42,3 +44,6 @@ My goal is to become a **Web Developer**, **Game Developer**, or **Software Engi
 - GitHub: [TooFuW](https://github.com/TooFuW)
 - Email: [eyrianmuet@proton.me](mailto:eyrianmuet@proton.me)
 <!--- - Portfolio: [Coming one day](https://example.com) --->
+
+[![TooFuW's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TooFuW&layout=donut)](https://github.com/TooFuW)
+[![TooFuW's GitHub stats](https://github-readme-stats.vercel.app/api?username=TooFuW)](https://github.com/TooFuW)
