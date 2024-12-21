@@ -21,7 +21,7 @@ My goal is to become a **Web Developer**, **Game Developer**, or **Software Engi
 > Currently learning <code><img height="25" alt="kotlin" src="https://github.com/TooFuW/TooFuW/blob/main/images/kotlin%20logo.png"></code>
 
 - **Tools**:
-- <code><img height="25" alt="vscode" src="https://github.com/TooFuW/TooFuW/blob/main/images/vscode%20logo.png"></code>
+<code><img height="25" alt="vscode" src="https://github.com/TooFuW/TooFuW/blob/main/images/vscode%20logo.png"></code>
 <code><img height="25" alt="microsoft office" src="https://github.com/TooFuW/TooFuW/blob/main/images/microsoft%20365%20logo.svg"></code>
 <code><img height="25" alt="unreal engine" src="https://github.com/TooFuW/TooFuW/blob/main/images/unreal%20engine%20logo.png"></code>
 <code><img height="25" alt="canva" src="https://github.com/TooFuW/TooFuW/blob/main/images/canva%20logo.png"></code>
