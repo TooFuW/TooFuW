@@ -44,7 +44,7 @@ My goal is to become a **Web Developer**, **Game Developer**, or **Software Engi
 
 ---
 
-## 📫 Contact Me
+## 📫 About Me
 
 - GitHub: [TooFuW](https://github.com/TooFuW)
 - Email: [eyrianmuet@proton.me](mailto:eyrianmuet@proton.me)
