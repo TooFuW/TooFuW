@@ -31,7 +31,7 @@ My goal is to become a **Web Developer**, **Game Developer**, or **Software Engi
 ## 🚀 Projects
 
 ### API app:
-- <code><img height="25" alt="python" src="https://github.com/TooFuW/TooFuW/blob/main/images/python%20logo.png"></code> Batitech – An app using Synchroteam API to create tasks.
+- <code><img height="25" alt="python" src="https://github.com/TooFuW/TooFuW/blob/main/images/python%20logo.png"></code> [App Synchroteam](https://github.com/TooFuW/Batitech) – An app using Synchroteam API to create tasks for BATITECH NC during my summer internship with them.
 
 ### Websites:
 - <code><img height="25" alt="shopify" src="https://github.com/TooFuW/TooFuW/blob/main/images/shopify%20logo.png"></code> [AKOS](https://akos.nc/) – An e-commerce website for local products.
