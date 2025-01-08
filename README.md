@@ -18,7 +18,7 @@ My goal is to become a **Web Developer**, **Game Developer**, or **Software Engi
 <code><img height="25" alt="wordpress" src="https://github.com/TooFuW/TooFuW/blob/main/images/wordpress%20logo.png"></code>
 <code><img height="25" alt="mysql" src="https://github.com/TooFuW/TooFuW/blob/main/images/mysql%20logo.png"></code>
 > [!NOTE]\
-> Currently learning <code><img height="25" alt="kotlin" src="https://github.com/TooFuW/TooFuW/blob/main/images/kotlin%20logo.png"></code>
+> Currently learning <code><img height="25" alt="flutter" src="https://github.com/TooFuW/TooFuW/blob/main/images/flutter%20logo.png"></code>
 
 - **Tools**:
 <code><img height="25" alt="vscode" src="https://github.com/TooFuW/TooFuW/blob/main/images/vscode%20logo.png"></code>
