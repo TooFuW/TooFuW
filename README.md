@@ -2,7 +2,7 @@
 
 Hi, I'm TooFu, a 3rd year Computer Science student.  
 I love reading, playing video games and board games, and coding.  
-My goal is to become a **Web Developer**, **Game Developer**, or **Software Enginer**.
+My goal is to become a **Software Enginer**, a **Web Developer** or a **Game Developer**.
 
 ---
 
@@ -17,6 +17,7 @@ My goal is to become a **Web Developer**, **Game Developer**, or **Software Engi
 <code><img height="25" alt="shopify" src="https://github.com/TooFuW/TooFuW/blob/main/images/shopify%20logo.png"></code>
 <code><img height="25" alt="wordpress" src="https://github.com/TooFuW/TooFuW/blob/main/images/wordpress%20logo.png"></code>
 <code><img height="25" alt="mysql" src="https://github.com/TooFuW/TooFuW/blob/main/images/mysql%20logo.png"></code>
+<code><img height="25" alt="nodejs" src="https://github.com/TooFuW/TooFuW/blob/main/images/nodejs%20logo.svg"></code>
 > [!NOTE]\
 > Currently learning <code><img height="25" alt="flutter" src="https://github.com/TooFuW/TooFuW/blob/main/images/flutter%20logo.png"></code>
 
@@ -25,6 +26,9 @@ My goal is to become a **Web Developer**, **Game Developer**, or **Software Engi
 <code><img height="25" alt="microsoft office" src="https://github.com/TooFuW/TooFuW/blob/main/images/microsoft%20365%20logo.svg"></code>
 <code><img height="25" alt="unreal engine" src="https://github.com/TooFuW/TooFuW/blob/main/images/unreal%20engine%20logo.png"></code>
 <code><img height="25" alt="canva" src="https://github.com/TooFuW/TooFuW/blob/main/images/canva%20logo.png"></code>
+<code><img height="25" alt="windows" src="https://github.com/TooFuW/TooFuW/blob/main/images/windows%20logo.png"></code>
+<code><img height="25" alt="linux" src="https://github.com/TooFuW/TooFuW/blob/main/images/linux%20logo.png"></code>
+<code><img height="25" alt="android" src="https://github.com/TooFuW/TooFuW/blob/main/images/android%20logo.png"></code>
 
 ---
 
