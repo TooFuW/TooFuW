@@ -45,7 +45,7 @@ My goal is to become a **Software Enginer**, a **Web Developer** or a **Game Dev
 - <code><img height="25" alt="wordpress" src="https://github.com/TooFuW/TooFuW/blob/main/images/wordpress%20logo.png"></code> [Videosafe](https://videosafe.pacificsecurite.nc/) – A website for a cloud storage solution for videosurveillance.
 
 ### Personal projects
-- [Hackagou](https://hackagou.nc/) : I placed second with my team in the 2024 edition.
+- [Hackagou](https://hackagou.nc/) : Hackagou is a CTF competition that takes place every year in New Caledonia. I participated to the 2024 edition and I placed second with my team !
 - <code><img height="25" alt="javascript" src="https://github.com/TooFuW/TooFuW/blob/main/images/javascript%20logo.png"></code> [ChessComHelper](https://github.com/TooFuW/ChromeExtension_ChessComHelper/) - A chrome extension that highlights the threatened pieces on Chess.com.
 - <code><img height="25" alt="python" src="https://github.com/TooFuW/TooFuW/blob/main/images/python%20logo.png"></code> [ShortMoji](https://github.com/TooFuW/ShortMoji) - A small python program that makes it easy to insert emojis anywhere with simple keyboard shortcuts (similar to Discord's emoji system).
 
