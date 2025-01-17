@@ -42,7 +42,7 @@ My goal is to become a **Software Enginer**, a **Web Developer** or a **Game Dev
 ### Websites:
 - <code><img height="25" alt="shopify" src="https://github.com/TooFuW/TooFuW/blob/main/images/shopify%20logo.png"></code> [Pacific Securite](https://pacificsecurite.nc/) – An e-commerce website for security cameras and surveillance equipment.
 - <code><img height="25" alt="wordpress" src="https://github.com/TooFuW/TooFuW/blob/main/images/wordpress%20logo.png"></code> [Videosafe](https://videosafe.pacificsecurite.nc/) – A website for a cloud storage solution for videosurveillance.
-- <code><img height="25" alt="shopify" src="https://github.com/TooFuW/TooFuW/blob/main/images/shopify%20logo.png"></code> [AKOS](https://akos.nc/) – An e-commerce website for local products.
+- <code><img height="25" alt="shopify" src="https://github.com/TooFuW/TooFuW/blob/main/images/shopify%20logo.png"></code> [AKOS](https://akos.nc/) – An e-commerce website for fantasy products.
 
 ### Personal projects
 - [Hackagou](https://hackagou.nc/) : Hackagou is a CTF competition that takes place every year in New Caledonia. I participated to the 2024 edition and I placed second with my team !
