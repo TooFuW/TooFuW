@@ -1,6 +1,6 @@
 ## 👋 TooFu
 
-Hi, I'm TooFu, a 3rd year Computer Science student.  
+Hi, I'm Eyrian Muet, a 3rd year Computer Science student.  
 I love reading, playing video games and board games, and coding.  
 My goal is to become a **Software Enginer**, a **Web Developer** or a **Game Developer**.
 
