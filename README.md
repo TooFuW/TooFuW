@@ -29,6 +29,8 @@ My goal is to become a **Software Enginer**, a **Web Developer** or a **Game Dev
 <code><img height="25" alt="windows" src="https://github.com/TooFuW/TooFuW/blob/main/images/windows%20logo.png"></code>
 <code><img height="25" alt="linux" src="https://github.com/TooFuW/TooFuW/blob/main/images/linux%20logo.png"></code>
 <code><img height="25" alt="android" src="https://github.com/TooFuW/TooFuW/blob/main/images/android%20logo.png"></code>
+<code><img height="25" alt="android studio" src="https://github.com/TooFuW/TooFuW/blob/main/images/android%20studio%20logo.png"></code>
+<code><img height="25" alt="intellijidea" src="https://github.com/TooFuW/TooFuW/blob/main/images/intellijidea%20logo.png"></code>
 
 ---
 
