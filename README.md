@@ -15,10 +15,9 @@ My goal is to become a **Software Enginer**, a **Web Developer** or a **Game Dev
 <code><img height="25" alt="html" src="https://github.com/TooFuW/TooFuW/blob/main/images/html%20logo.png"></code>
 <code><img height="25" alt="css" src="https://github.com/TooFuW/TooFuW/blob/main/images/css%20logo.png"></code>
 <code><img height="25" alt="javascript" src="https://github.com/TooFuW/TooFuW/blob/main/images/javascript%20logo.png"></code>
+<code><img height="25" alt="flutter" src="https://github.com/TooFuW/TooFuW/blob/main/images/flutter%20logo.png"></code>
 <code><img height="25" alt="nodejs" src="https://github.com/TooFuW/TooFuW/blob/main/images/nodejs%20logo.svg"></code>
 <code><img height="25" alt="mysql" src="https://github.com/TooFuW/TooFuW/blob/main/images/mysql%20logo.png"></code>
-> [!NOTE]\
-> Currently learning <code><img height="25" alt="flutter" src="https://github.com/TooFuW/TooFuW/blob/main/images/flutter%20logo.png"></code>
 
 - **IDE**:
 <code><img height="25" alt="vscode" src="https://github.com/TooFuW/TooFuW/blob/main/images/vscode%20logo.png"></code>
