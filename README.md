@@ -50,7 +50,7 @@ My goal is to become a **Software Enginer**, a **Web Developer** or a **Game Dev
 ### Personal projects
 - <code><img height="25" alt="python" src="https://github.com/TooFuW/TooFuW/blob/main/images/python%20logo.png"></code> [ShortMoji](https://github.com/TooFuW/ShortMoji) - A lightweight python program that makes it easy to insert emojis and special characters anywhere with simple keyboard shortcuts (similar to Discord's emoji system).
 - <code><img height="25" alt="javascript" src="https://github.com/TooFuW/TooFuW/blob/main/images/javascript%20logo.png"></code> [ChessComHelper](https://github.com/TooFuW/ChromeExtension_ChessComHelper/) - A chrome extension that highlights the threatened pieces on [chess.com](https://www.chess.com/).
-- [Hackagou](https://hackagou.nc/) : Hackagou is a CTF competition that takes place every year in New Caledonia. I participated to the 2024 edition and I placed second with my team !
+- [Hackagou](https://hackagou.nc/) : Hackagou is a CTF competition that takes place every year in New Caledonia. I participated to the 2024 edition and I placed forth with my team !
 
 ---
 
