@@ -43,7 +43,7 @@ My goal is to become a **Software Enginer**, a **Web Developer** or a **Game Dev
 - <code><img height="25" alt="python" src="https://github.com/TooFuW/TooFuW/blob/main/images/python%20logo.png"></code> [App Synchroteam](https://github.com/TooFuW/Batitech) – A python app using Synchroteam API and tkinter to create tasks for BATITECH NC.
 
 ### Websites:
-- <code><img height="25" alt="shopify" src="https://github.com/TooFuW/TooFuW/blob/main/images/shopify%20logo.png"></code> [Pacific Securite](https://pacificsecurite.nc/) – An e-commerce website for security cameras and surveillance equipment made with Shopify.
+- <code><img height="25" alt="shopify" src="https://github.com/TooFuW/TooFuW/blob/main/images/shopify%20logo.png"></code> [Pacificsecurite](https://pacificsecurite.nc/) – An e-commerce website for security cameras and surveillance equipment made with Shopify.
 - <code><img height="25" alt="wordpress" src="https://github.com/TooFuW/TooFuW/blob/main/images/wordpress%20logo.png"></code> [Videosafe](https://videosafe.pacificsecurite.nc/) – A website for a cloud storage solution for videosurveillance made with Wordpress.
 - <code><img height="25" alt="shopify" src="https://github.com/TooFuW/TooFuW/blob/main/images/shopify%20logo.png"></code> [AKOS](https://akos.nc/) – An e-commerce website for fantasy products made with Shopify.
 
