@@ -42,7 +42,7 @@ My goal is to become a **Software Enginer**, a **Web Developer** or a **Game Dev
 ## 🚀 Projects
 
 ### Personal professional projects:
-- <code><img height="25" alt="flutter" src="https://github.com/TooFuW/TooFuW/blob/main/images/flutter%20logo.png"></code><code><img height="25" alt="react" src="https://github.com/TooFuW/TooFuW/blob/main/images/react%20logo.svg"></code><code><img height="25" alt="nodejs" src="https://github.com/TooFuW/TooFuW/blob/main/images/nodejs%20logo.svg"></code> [Bonus](https://bonus.nc) [Pépite](https://pepite.unc.nc) – A project made with the Pépite Nouvelle Calédonie program, where a friend and I are developping a system to centralize loyalty cards.
+- <code><img height="25" alt="flutter" src="https://github.com/TooFuW/TooFuW/blob/main/images/flutter%20logo.png"></code><code><img height="25" alt="react" src="https://github.com/TooFuW/TooFuW/blob/main/images/react%20logo.svg"></code><code><img height="25" alt="nodejs" src="https://github.com/TooFuW/TooFuW/blob/main/images/nodejs%20logo.svg"></code> [Bonus](https://bonus.nc) ([Pépite](https://pepite.unc.nc)) – A project made with the Pépite Nouvelle Calédonie program, where a friend and I are developping a system to centralize loyalty cards.
 
 ### API app:
 - <code><img height="25" alt="python" src="https://github.com/TooFuW/TooFuW/blob/main/images/python%20logo.png"></code> [App Synchroteam](https://github.com/TooFuW/Batitech) – A python app using Synchroteam API and tkinter to create tasks for BATITECH NC.
