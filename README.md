@@ -30,7 +30,7 @@ My goal is to become a **Software Enginer**, a **Web Developer** or a **Game Dev
 <code><img height="25" alt="unreal engine" src="https://github.com/TooFuW/TooFuW/blob/main/images/unreal%20engine%20logo%20black.png"></code>
 <code><img height="25" alt="microsoft office" src="https://github.com/TooFuW/TooFuW/blob/main/images/microsoft%20365%20logo.svg"></code>
 <code><img height="25" alt="canva" src="https://github.com/TooFuW/TooFuW/blob/main/images/canva%20logo.png"></code>
-<code><img height="25" alt="miro" src="https://github.com/TooFuW/TooFuW/blob/main/images/miro%20logo.png"></code>
+<code><img height="25" alt="miro" src="https://github.com/TooFuW/TooFuW/blob/main/images/miro%20logo.svg"></code>
 
 - **OS**:
 <code><img height="25" alt="windows" src="https://github.com/TooFuW/TooFuW/blob/main/images/windows%20logo.png"></code>
