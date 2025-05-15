@@ -1,7 +1,7 @@
 ## 👋 TooFuW
 
-Hi, I'm TooFuW, a 3rd year french IT student at the University of New-Caledonia.  
-I love reading, video and board games, sport and coding.  
+Hi, I'm TooFuW, a french IT student at the University of New-Caledonia.  
+I love reading, video and board games, sport and programming.  
 My goal is to become a **Software Enginer**, a **Web Developer** or a **Game Developer**.
 
 ---
